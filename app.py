@@ -6,6 +6,7 @@ from concurrent.futures import ProcessPoolExecutor
 import base64
 import xlrd
 import openpyxl
+import numpy as np
 
 
 # Set a title
